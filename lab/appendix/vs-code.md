@@ -113,7 +113,7 @@ Press ```Ctrl+` ``` (```Cmd+` ``` on `macOS`)
 
 ### Run a command using the `Terminal`
 
-1. Write or paste a command.
+1. Write or [paste](#paste-inside-the-terminal) a command.
 1. Press `Enter`.
 
 ## `Folders`
