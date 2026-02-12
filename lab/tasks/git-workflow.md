@@ -288,8 +288,6 @@ If you see the `Compare & pull request` button, click it.
 ### Finish creating a PR
 
 1. Write the PR title.
-
-   Example: `Solve task 1`.
 2. Write the PR description.
 3. [Link the PR](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) to the issue, e.g. `Closes #<issue number>`.
 4. Check the boxes.
