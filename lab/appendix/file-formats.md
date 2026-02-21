@@ -6,6 +6,7 @@
 - [Common file formats](#common-file-formats)
   - [`Markdown`](#markdown)
     - [`Markdown` docs](#markdown-docs)
+    - [`Markdown` in this project](#markdown-in-this-project)
   - [`JSON`](#json)
     - [`JSON` docs](#json-docs)
     - [`JSON` example](#json-example)
@@ -46,6 +47,12 @@ You see the rendered `HTML` when you [open the `Markdown` preview](./vs-code.md#
 #### `Markdown` docs
 
 - [Learn Markdown in Y minutes](https://learnxinyminutes.com/docs/markdown/)
+
+#### `Markdown` in this project
+
+- [`lab/appendix/file-formats.md`](./file-formats.md) — this file.
+- [`README.md`](../../README.md) — project overview.
+- [`.github/pull_request_template.md`](../../.github/pull_request_template.md) — `GitHub` pull request template.
 
 ### `JSON`
 
